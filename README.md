@@ -1,2 +1,2 @@
-# GettingStartWithPython
+# GettingStaredtWithPython
 Python practice
